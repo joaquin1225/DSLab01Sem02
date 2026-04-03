@@ -2,6 +2,7 @@
 * Este programa determina al cliente mas fiel de cada socio de un banco.
 * Para ello usa estructuras HashMap, lo que permite relacionar facilmente cada terminal con su socio, y cada socio con
 * sus clientes y la cantidad de transacciones realizadas por cada cliente.
+* Se asume que una terminal solo puede pertenecer a un socio.
 * */
 import java.util.*;
 
